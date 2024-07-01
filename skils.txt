@@ -1,0 +1,23 @@
+
+AQA-JS-1
+Программа курса:
+1 - Теория автоматизации тестирования 2 - Системы контроля версия, Git, GitHub 3-ЈЅ - Переменные, операторы
+4-15 - Сравнение данных, if, switch 5-15 - Работа со string, number, for, while 6-J5 - Массивы, функции, spread
+7-J5 - Методы массивов, Set
+8-J5 - Объекты, bind, call, apply, Date 9-ЈЅ - ООР, работа с классами
+10-JS- Promises, Async functions, Event Loop 11-ТЅ - Типы, Интерфейсы, базовая
+типизация
+12-ТЅ - Дженерики, utility types
+13-TS - Code quality (ESlint, Prettier, Husky), Unit Testing
+14-ТЅ- Введение в паттерны проектирования и принципы SOLID
+15-АQА - Введение в автоматизацию, работа
+с селекторами (css, XPath)
+16-АQА - Тестирование UI с селениумом
+(Webdriver10)
+17-АQА - Тестирование U с селениумом
+(Webdriver10)
+18-АQА - Построение TAF (test automation framework)
+19-АQА - Тестирование АРІ
+20-AQA - Test suites, Репортинг, Логирование 21-AQA - BDD с использованием Webdriverlo и Cucumber
+22-АQА - Тестирование UI и API с Playwright 23-АQА - Тестирование UI и API с Playwright 24-AQA - Интеграция с СІ/СD
+25-АQА - Финальный проект
